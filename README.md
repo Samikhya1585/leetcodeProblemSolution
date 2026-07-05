@@ -26,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Array
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1301-number-of-paths-with-max-score) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1301-number-of-paths-with-max-score) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
