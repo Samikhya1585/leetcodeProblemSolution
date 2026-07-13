@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0520-detect-capital) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0013-roman-to-integer) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
