@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0013-roman-to-integer) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0003-longest-substring-without-repeating-characters) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
