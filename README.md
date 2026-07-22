@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1260-shift-2d-grid) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0134-gas-station) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
