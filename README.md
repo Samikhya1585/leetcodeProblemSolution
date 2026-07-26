@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0001-two-sum) |
 | [0134-gas-station](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0994-rotting-oranges) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0013-roman-to-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
