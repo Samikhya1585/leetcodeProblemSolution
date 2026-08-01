@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0217-contains-duplicate) |
+| [0486-predict-the-winner](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0994-rotting-oranges](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1260-shift-2d-grid) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1301-number-of-paths-with-max-score) |
 ## Matrix
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0013-roman-to-integer) |
+| [0486-predict-the-winner](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -167,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
