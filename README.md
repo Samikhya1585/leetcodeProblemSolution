@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0217-contains-duplicate) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3731-find-missing-elements) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Number Theory
 |  |
 | ------- |
