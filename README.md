@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/2029-stone-game-ix) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0217-contains-duplicate) |
 | [1386-cinema-seat-allocation](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1140-stone-game-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
