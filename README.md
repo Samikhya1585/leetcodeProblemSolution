@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/2029-stone-game-ix) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0217-contains-duplicate) |
 | [1386-cinema-seat-allocation](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
