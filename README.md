@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Greedy
 |  |
 | ------- |
@@ -311,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
