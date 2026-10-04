@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0520-detect-capital) |
+| [0678-valid-parenthesis-string](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1301-number-of-paths-with-max-score) |
@@ -236,12 +238,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Greedy
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0134-gas-station) |
+| [0678-valid-parenthesis-string](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1927-sum-game) |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Backtracking
 |  |
