@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Greedy
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0134-gas-station) |
 | [0678-valid-parenthesis-string](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1927-sum-game) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Backtracking
 |  |
