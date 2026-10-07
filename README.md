@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0678-valid-parenthesis-string) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0301-remove-invalid-parentheses) |
 | [0994-rotting-oranges](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/3310-remove-methods-from-project) |
@@ -339,4 +341,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
