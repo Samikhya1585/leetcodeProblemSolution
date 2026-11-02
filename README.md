@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0217-contains-duplicate) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0877-stone-game) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0217-contains-duplicate) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0013-roman-to-integer) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Samikhya1585/leetcodeProblemSolution/tree/master/0877-stone-game) |
